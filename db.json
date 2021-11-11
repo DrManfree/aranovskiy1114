@@ -1,4 +1,15 @@
 {
   "students": [
+    {
+      "surname": "Арановский",
+      "name": "Алексей",
+      "midname": "Александрович",
+      "phone": 79169084528,
+      "mail": "sponge.leha@gmail.com",
+      "birthdate": "1999-03-10",
+      "group": "191-323",
+      "speciality": "САПР",
+      "id": 1
+    }
   ]
 }
